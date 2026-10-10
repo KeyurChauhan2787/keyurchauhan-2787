@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,androidstudio,html,css,js,git,github,vscode&perline=6" alt="Languages and tools" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,c,react,vscode&perline=6" alt="Languages and tools" />
 
 </div>
 
