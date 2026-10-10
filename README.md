@@ -1,77 +1,92 @@
-[# Hi there 👋, I'm Keyur Chauhan
+ <!-- Animated Header -->
+<div align="center">
 
-### 🚀 Aspiring App Developer | 💻 Tech Enthusiast | 🌱 Always Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Keyur%20Chauhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-Welcome to my GitHub profile! I'm passionate about technology and enjoy learning how to build useful, user-friendly applications. I'm currently exploring app development and improving my skills one project at a time.
+# Hi there 👋, I'm Keyur Chauhan
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=Aspiring+App+Developer+%F0%9F%93%B1;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=keyurchauhan-2787&style=for-the-badge&color=blue" alt="Profile views" />
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 📱 Aspiring App Developer passionate about building mobile applications
-- 🌱 Currently learning and exploring new technologies
-- 💡 Interested in mobile app development and web technologies
-- 🛠️ Enjoy solving problems and turning ideas into projects
-- 🎯 Goal: Become a skilled developer and build impactful applications
+- 🔭 I'm working towards becoming an **App Developer**
+- 🌱 I'm continuously learning and exploring new technologies
+- 📱 Interested in mobile application development
+- 💻 Exploring web development and programming
+- 🎯 My goal is to create useful apps and meaningful projects
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🛠️ Languages and Tools
 
-**Mobile Development**
+<div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,androidstudio,html,css,js,git,github,vscode&perline=6" alt="Languages and tools" />
 
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Featured Projects
 
-- 📱 **Project One** — A mobile application I'm building or planning to build.  
-  [View Repository](https://github.com/KEYUR_GITHUB_USERNAME/PROJECT_ONE)
+<div align="center">
 
-- 🌐 **Project Two** — A web development project to practice my skills.  
-  [View Repository](https://github.com/KEYUR_GITHUB_USERNAME/PROJECT_TWO)
+<a href="https://github.com/keyurchauhan-2787">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keyurchauhan-2787&repo=keyurchauhan-2787&theme=tokyonight&hide_border=true" alt="Profile repository" />
+</a>
 
-- 💡 **Project Three** — A personal project focused on learning and experimentation.  
-  [View Repository](https://github.com/KEYUR_GITHUB_USERNAME/PROJECT_THREE)
+</div>
+
+Explore my [repositories](https://github.com/keyurchauhan-2787?tab=repositories) to see my work and learning journey.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KEYUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="165" alt="Keyur's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEYUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" height="165" alt="Most used languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KEYUR_GITHUB_USERNAME&theme=default&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=keyurchauhan-2787&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyurchauhan-2787&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=keyurchauhan-2787&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keyurchauhan-2787&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+
+</div>
 
 ---
 
 ### 🤝 Connect With Me
 
-- 💻 GitHub: [@KEYUR_GITHUB_USERNAME](https://github.com/KEYUR_GITHUB_USERNAME)
-- 📧 Email: YOUR_EMAIL@example.com
-- 💼 LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+<div align="center">
 
----
+<a href="https://github.com/keyurchauhan-2787">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+</div>
 
-](https://github.com/KeyurChauhan2787DU-BCA/keyurchauhan-2787/blob/main/README.md)
+<div align="center">
+
+### 💫 *Keep Learning. Keep Building. Keep Growing.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
+
+</div>
