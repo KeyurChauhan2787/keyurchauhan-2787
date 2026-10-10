@@ -57,14 +57,10 @@
 
 ### 📈 Contribution Graph
 
+### 📈 GitHub Contributions
+
 <p align="center">
-  <a href="https://github.com/keyurchauhan-2787">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=keyurchauhan-2787&theme=tokyo-night&hide_border=true&area=true"
-      alt="Keyur's GitHub Contribution Graph"
-      width="100%"
-    />
-  </a>
+  <img src="https://ghchart.rshah.org/40c463/KeyurChauhan2787DU-BCA" alt="GitHub contribution chart" width="100%" />
 </p>
 ---
 
