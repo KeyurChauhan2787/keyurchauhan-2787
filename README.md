@@ -36,15 +36,7 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/keyurchauhan-2787">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=keyurchauhan-2787&repo=keyurchauhan-2787&theme=tokyonight&hide_border=true" alt="Profile repository" />
-</a>
-
-</div>
-
-Explore my [repositories](https://github.com/keyurchauhan-2787?tab=repositories) to see my work and learning journey.
 
 ---
 
