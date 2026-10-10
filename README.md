@@ -44,26 +44,24 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=keyurchauhan-2787&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeyurChauhan2787DU-BCA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyurchauhan-2787&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyurChauhan2787DU-BCA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=keyurchauhan-2787&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=KeyurChauhan2787DU-BCA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 ### 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keyurchauhan-2787&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyurChauhan2787DU-BCA&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
 
 </div>
-
 ---
 
 ### 🤝 Connect With Me
