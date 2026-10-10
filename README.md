@@ -57,11 +57,15 @@
 
 ### 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyurChauhan2787DU-BCA&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/keyurchauhan-2787">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=keyurchauhan-2787&theme=tokyo-night&hide_border=true&area=true"
+      alt="Keyur's GitHub Contribution Graph"
+      width="100%"
+    />
+  </a>
+</p>
 ---
 
 ### 🤝 Connect With Me
