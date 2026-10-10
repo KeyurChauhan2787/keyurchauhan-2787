@@ -5,7 +5,8 @@
 
 # Hi there 👋, I'm Keyur Chauhan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=Aspiring+App+Developer+%F0%9F%93%B1;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=808080&center=true&vCenter=true&width=550&lines=Aspiring+App+Developer+%F0%9F%93%B1;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=keyurchauhan-2787&style=for-the-badge&color=blue" alt="Profile views" />
 
