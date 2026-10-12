@@ -44,31 +44,39 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeyurChauhan2787DU-BCA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeyurChauhan2787&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyurChauhan2787DU-BCA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyurChauhan2787&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=KeyurChauhan2787DU-BCA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=KeyurChauhan2787&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
----
 
-### 📈 Contribution Graph
+---
 
 ### 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/40c463/KeyurChauhan2787DU-BCA" alt="GitHub contribution chart" width="100%" />
+  <img src="https://ghchart.rshah.org/40c463/KeyurChauhan2787" alt="GitHub Contribution Chart" width="100%" />
 </p>
+
 ---
 
 ### 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/keyurchauhan-2787">
+<a href="https://github.com/KeyurChauhan2787">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
+</a>
+
+</div>
+
+<p align="center">
+  <i>🌱 Keep Learning. Keep Building. Keep Growing.</i>
+</p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
