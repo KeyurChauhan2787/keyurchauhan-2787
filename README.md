@@ -1,7 +1,8 @@
  <!-- Animated Header -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Keyur%20Chauhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KeyurChauhan2787&label=Profile%20Views&color=0e75b6&style=flat"
+       alt="Profile Views" />
+</p>
 
 # Hi there 👋, I'm Keyur Chauhan
 
