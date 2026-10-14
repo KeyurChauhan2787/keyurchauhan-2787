@@ -46,13 +46,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=keyurchauhan-2787&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KeyurChauhan2787&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyurchauhan-2787&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyurChauhan2787&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=keyurchauhan-2787&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=KeyurChauhan2787&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
