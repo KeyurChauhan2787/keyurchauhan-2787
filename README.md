@@ -61,7 +61,7 @@
 ### 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/40c463/keyurchauhan-2787" alt="GitHub Contribution Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/40c463/KeyurChauhan2787" alt="GitHub Contribution Chart" width="100%" />
 </p>
 
 ---
