@@ -4,8 +4,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Keyur%20Chauhan&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KeyurChauhan2787&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+![](https://komarev.com/ghpvc/?username=KeyurChauhan2787&style=flat-square&color=blue)
+
 </p>
 
 # Hi there 👋, I'm Keyur Chauhan
