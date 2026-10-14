@@ -6,7 +6,6 @@
 
 
 
-```markdown
 <p align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=KeyurChauhan2787&style=flat-square&color=blue)
 </p>
