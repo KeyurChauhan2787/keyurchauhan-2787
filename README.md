@@ -1,4 +1,4 @@
-```html
+
 <!-- Animated Header -->
 <div align="center">
 
