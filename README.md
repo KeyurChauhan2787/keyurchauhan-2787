@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,c,react,vscode&perline=6" alt="Languages and Tools" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,c,react,vscode&perline=5" alt="Java, HTML, CSS, JavaScript, Git, GitHub, C, React and VS Code" />
 
 </div>
 
