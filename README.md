@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KeyurChauhan2787&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-```
 
 # Hi there 👋, I'm Keyur Chauhan
 
