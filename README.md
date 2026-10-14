@@ -6,8 +6,9 @@
 
 
 
+```markdown
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KeyurChauhan2787&style=flat-square&color=blue" alt="Profile Views Counter">
+  ![Profile Views](https://komarev.com/ghpvc/?username=KeyurChauhan2787&style=flat-square&color=blue)
 </p>
 
 # Hi there 👋, I'm Keyur Chauhan
